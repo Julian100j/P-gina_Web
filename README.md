@@ -1,4 +1,4 @@
-# Pagina_web /  ✈️
+# Pagina_web /   🎵🎧 🎙️ 
 <img src="portada.png" />
 
 # Proyecto NJS MUSICAL STUDIOS
