@@ -1,9 +1,9 @@
 # Pagina_web /  ✈️
 <img src="portada.png" />
 
-# Proyecto Nariño Traveling
+# Proyecto MussaFusion Studios
 
-Esta pagina web tiene como proposito ofrecer viajes en todo el departamento de nariño con una comoda y facil interfaz de usuario que permite encontrar un buen viaje a tu gusto.
+Esta pagina web tiene como proposito ofrecer nuestra productora musical la cual cuenta con una gran variedad de aristas reconocidos a nivel mundial, los mejores productores musicales, grandes managers. Esta productora, de igual manera necesita nuevos artistas, nuevas voces por lo que estamos abiertos a conocer nuevos talentos de la musica.
 
 ## Empezando
 
@@ -20,7 +20,7 @@ Para el ejecutamiento del codigo HTML se debe ingresar al link de la pagina web 
 
 ## Despliegue (Deployment)
 
-Este codigo al ser desarrollado en HTML y JavaScript sirve para hacer la parte del frontend en este sitio de viajes el cual va facilitar a los usuarios la interaccion con la pagina.
+Este codigo al ser desarrollado en HTML y JavaScript sirve para hacer la parte del frontend en esta pagina musical la cual va facilitar a los usuarios la interaccion con la pagina.
 
 
 ## Construido con
