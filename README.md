@@ -1,7 +1,7 @@
 # Pagina_web /  ✈️
 <img src="portada.png" />
 
-# Proyecto MussaFusion Studios
+# Proyecto NJS MUSICAL STUDIOS
 
 Esta pagina web tiene como proposito ofrecer nuestra productora musical la cual cuenta con una gran variedad de aristas reconocidos a nivel mundial, los mejores productores musicales, grandes managers. Esta productora, de igual manera necesita nuevos artistas, nuevas voces por lo que estamos abiertos a conocer nuevos talentos de la musica.
 
