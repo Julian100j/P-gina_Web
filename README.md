@@ -1,4 +1,4 @@
-# NJS MUSICAL STUDIOS /   🎵🎧 🎙️ 
+# NJS MUSICAL STUDIOS  🎵🎧 🎙️ 
 <img src="https://djpmusicschool.com/wp-content/uploads/Productores-musicales-que-han-hecho-historia.png" />
 
 # Proyecto NJS MUSICAL STUDIOS
