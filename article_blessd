@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Music Beats | Article</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+  <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+  <script type="text/javascript" src="js/cufon-yui.js"></script>
+  <script type="text/javascript" src="js/cufon-replace.js"></script>
+  <script type="text/javascript" src="js/script.js"></script>
+  <script type="text/javascript" src="js/ITC_Busorama_500.font.js"></script>
+  <!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" media="screen">
+<script type="text/javascript" src="js/ie_png.js"></script>
+<script type="text/javascript">ie_png.fix('.png, header nav ul li, header nav ul li a, h1 a');</script>
+<![endif]-->
+  <!--[if lt IE 9]><script type="text/javascript" src="js/html5.js"></script><![endif]-->
+</head>
+
+<body id="page4">
+  <!-- START PAGE SOURCE -->
+  <div class="wrap">
+    <header>
+      <div class="container">
+        <h1><a href="#">Music Beats</a></h1>
+        <nav>
+          <ul>
+            <li class="m1"><a href="index.html"><span>Principal</span></a></li>
+            <li class="m2"><a href="about-us.html"><span>sobre nosotros</span></a></li>
+            <li class="m3"><a href="articles.html"><span>articulos</span></a></li>
+            <li class="m4"><a href="contact-us.html"><span>contactanos</span></a></li>
+            <li class="m5 last"><a href="sitemap.html"><span>Indice</span></a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div class="container">
+      <aside>
+        <div class="inside">
+          <h2>Noticias</h2>
+          <ul class="news">
+            <li><a href="#">Mayo 15, 2021</a><strong>Se estreno IMPOSIBLE - REMIX</strong>Maluma se contacto con los Managgers de blessd 
+            para unirse al remix del sencillo de imposible.</li>
+            <li><a href="#">Diciembre 01, 2021</a><strong>HECHO EN MEDELLIN</strong>A fines de 2021, Blessd lanzó su primer álbum de estudio 
+            titulado Hecho en Medellín que tiene 10 canciones que incluyen "Hace Tiempo", "Quien TV" y "Medallo".</li>
+            <li><a href="#">Octubre 06, 2022</a><strong>Artista Revelación Masculino y Billboard </strong>lo destacó como uno de los 22 
+            "artistas latinos a seguir" en 2022. Junto a Ryan Castro, lanzó dos nuevas canciones: "Niña de Mis Sueños" y "Quien TV" Remix.</li>
+          </ul>
+        </div>
+      </aside>
+      <section id="content">
+        <h2>Blessd</h2>
+        <div class="img-box"><img src="images/BLESSD.jpg">De origen humilde, Londoño nació en Itagui, Colombia, el 27 de enero del año 2000.
+        Su eslogan es Hecho en Medellín y su carrera la ha forjado gracias al duro trabajo de sus padres. Mientras estudiaba como cualquier 
+        otro adolescente, Stiven también trabajaba La Mayoritaria; además  era vendedor informal de dulces. Solía despertarse a las dos de la 
+        mañana para ir a la central, a las 7 entraba a la escuela y luego de salir volvía a trabajar. Los domingos y festivos su jornada empezaba
+        a las dos y terminaba tarde en la noche.</div>
+        <p>Entonces, Stiven hacia todo lo posible para costear su carrera. Incluso llegó a pagar la producción de su música a cuotas. Según comentó
+        el mismo artista, la grabación de una de sus canciones le costaba entre 100 y 200 dólares, los cuales pagaba a cuotas o prestando dinero. Pese
+        a las dificultades,  Stiven nunca considero rendirse pues su sueño siempre había sido convertirse en artista. Hoy  por hoy, Stiven es considerado
+        uno de los mejores freestylers de Medellín.</p>
+        <p class="p0">Lejanía fue su primer gran éxito, luego del hit Una  y  de Viernes Social.  El tema se estrenó a finales de 2020, pero se convirtió 
+        en tendencia a comienzos de 2021 con el lanzamiento de Imposible.  Imposible fue todo un éxito desde su lanzamiento, tanto así que el mismo Maluma 
+        se ofreció a grabar el remix con el que Blessd saltó finalmente a la fama. Imposible Remix junto a Maluma se estrenó en mayo de 2021 y desde entonces
+        no dejó de cosechar éxitos. La canción también cuenta con su propio videoclip musical. Para julio de 2021, el clip tenía más de 21 millones de reproducciones.
+        En mayo 2022 alcanzó los 60 millones de reproducciones en YouTube. </p>
+
+        <p>El 7 de abril de 2022,  Blessd regresó con Instagram. Actualmente, el tema es  No. 24 en el top de vídeos musicales de YouTube en Colombia.
+        Hoy por hoy, Blessd es visto como la nueva estrella de la música urbana a nivel nacional e internacional.</p>
+      </section>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <footer>
+    <div class="container">
+      <div class="cont-bot"></div>
+      <div class="footerlink">
+        <p class="lf">Copyright &copy; 2023 <a href="#">NJS MUSICAL STUDIOS</a> - All Rights Reserved</p>
+        <p class="rf">Hecho por <a href="https://github.com/usernicolasmaya/usernicolasmaya.git">Nicolas Maya</a></p>
+        <div style="clear:both;"></div>
+      </div>
+    </div>
+  </footer>
+  <script type="text/javascript"> Cufon.now(); </script>
+  <!-- END PAGE SOURCE -->
+</body>
+
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Music Beats | Article</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+  <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+  <script type="text/javascript" src="js/cufon-yui.js"></script>
+  <script type="text/javascript" src="js/cufon-replace.js"></script>
+  <script type="text/javascript" src="js/script.js"></script>
+  <script type="text/javascript" src="js/ITC_Busorama_500.font.js"></script>
+  <!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" media="screen">
+<script type="text/javascript" src="js/ie_png.js"></script>
+<script type="text/javascript">ie_png.fix('.png, header nav ul li, header nav ul li a, h1 a');</script>
+<![endif]-->
+  <!--[if lt IE 9]><script type="text/javascript" src="js/html5.js"></script><![endif]-->
+</head>
+
+<body id="page4">
+  <!-- START PAGE SOURCE -->
+  <div class="wrap">
+    <header>
+      <div class="container">
+        <h1><a href="#">Music Beats</a></h1>
+        <nav>
+          <ul>
+            <li class="m1"><a href="index.html"><span>Principal</span></a></li>
+            <li class="m2"><a href="about-us.html"><span>sobre nosotros</span></a></li>
+            <li class="m3"><a href="articles.html"><span>articulos</span></a></li>
+            <li class="m4"><a href="contact-us.html"><span>contactanos</span></a></li>
+            <li class="m5 last"><a href="sitemap.html"><span>Indice</span></a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div class="container">
+      <aside>
+        <div class="inside">
+          <h2>Noticias</h2>
+          <ul class="news">
+            
+            <li><a href="#">Septiembre, 2021</a><strong>Billoboard a la Musica latina</strong>Con el lanzamiento del sencillo de maluma "Hawai" fue nominado a este premio el cual lo gano.</li>
+            <li><a href="#">Julio, 2021</a><strong>Premio a lo Nuestro a Cancion del Año</strong>La figura de sus abuelos ha sido crucial en la carrera del cantante colombiano, por eso ha decidido
+                 rendirles un homenaje a través de esta canción "AMDV"</li>
+            <li><a href="#">Marzo, 2020</a><strong>MTV al Mejor Video Musical Latino</strong>Dos de los máximos exponentes de la música Maluma y J Balvin urbana en el mundo han unido fuerzas para lanzar su primera
+                 colaboración original.</li>
+          </ul>
+        </div>
+      </aside>
+      <section id="content">
+        <h2>maluma</h2>
+        <div class="img-box"><img src="images/maluma.jpg">En el año 2009, Maluma compuso una canción titulada “No quiero” junto a un amigo, la cual más tarde
+             tuvo la oportunidad de grabar en un estudio, gracias a un regalo de su tío. En ese momento, su enfoque principal no estaba en la música. No obstante, 
+             todo cambió cuando impresionó a un grupo de productores musicales que le ofrecieron la oportunidad de grabar un disco. Fue en el año 2010 cuando decidió
+              tomar clases de técnica vocal, y después de graduarse como bachiller, se lanzó de lleno en la música con el objetivo de convertirse en un reconocido
+               cantante del género urbano.</div>
+        <p>En 2013, Maluma lanzó “La Temperatura”, que rápidamente se colocó en las primeras 40 posiciones de listas Billboard. Ese año, fue nominado como Mejor Nuevo
+             Artista en los Grammy Latinos, interpretando la canción en la ceremonia. Además, ganó el premio a la Mejor Canción de Radio en los Premios Shock y recibió
+              nominaciones en los Premios MTV Europe Music Awards y Premio Lo Nuestra Tierra como Mejor Artista y Nuevo Artista, respectivamente.</p>
+        <p class="p0">En 2020, Maluma dio un giro importante en su carrera al lanzar su quinto álbum de estudio titulado “Papi Juancho”. Uno de los sencillos destacados 
+            de este álbum fue “Hawái”, que se convirtió en un fenómeno comercial al alcanzar el número uno en varios países y liderar la lista Hot Latin Songs por nueve 
+            semanas consecutivas. Además, el cantante lanzó un exitoso remix de “Hawái” en colaboración con el reconocido artista The Weeknd, logrando llegar al puesto 12 
+            en el Billboard Hot 100, un logro significativo en su carrera. </p>
+        <p>En el año 2023, Maluma presenta “DON JUAN”, su más reciente álbum, que marca un hito en la evolución de su carrera artística. Ese mismo año realizó una de las
+             colaboraciones que han generado mayor sorpresa y entusiasmo entre sus seguidores. En compañía de Carín León, presentó la canción “Según Quién”. Esta colaboración 
+             revela una faceta musical inesperada de Maluma que ha cautivado profundamente a su audiencia.</p>
+      </section>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <footer>
+    <div class="container">
+      <div class="cont-bot"></div>
+      <div class="footerlink">
+        <p class="lf">Copyright &copy; 2023 <a href="#">NJS MUSICAL STUDIOS</a> - All Rights Reserved</p>
+        <p class="rf">Hecho por <a href="https://github.com/usernicolasmaya/usernicolasmaya.git">Nicolas Maya</a></p>
+        <div style="clear:both;"></div>
+      </div>
+    </div>
+  </footer>
+  <script type="text/javascript"> Cufon.now(); </script>
+  <!-- END PAGE SOURCE -->
+</body>
+
+</html>
