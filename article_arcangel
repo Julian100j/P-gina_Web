@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Music Beats | Article</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+  <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+  <script type="text/javascript" src="js/cufon-yui.js"></script>
+  <script type="text/javascript" src="js/cufon-replace.js"></script>
+  <script type="text/javascript" src="js/script.js"></script>
+  <script type="text/javascript" src="js/ITC_Busorama_500.font.js"></script>
+  <!--[if lt IE 7]>
+<link rel="stylesheet" href="css/ie6.css" type="text/css" media="screen">
+<script type="text/javascript" src="js/ie_png.js"></script>
+<script type="text/javascript">ie_png.fix('.png, header nav ul li, header nav ul li a, h1 a');</script>
+<![endif]-->
+  <!--[if lt IE 9]><script type="text/javascript" src="js/html5.js"></script><![endif]-->
+</head>
+
+<body id="page4">
+  <!-- START PAGE SOURCE -->
+  <div class="wrap">
+    <header>
+      <div class="container">
+        <h1><a href="#">Music Beats</a></h1>
+        <nav>
+          <ul>
+            <li class="m1"><a href="index.html"><span>Principal</span></a></li>
+            <li class="m2"><a href="about-us.html"><span>sobre nosotros</span></a></li>
+            <li class="m3"><a href="articles.html"><span>articulos</span></a></li>
+            <li class="m4"><a href="contact-us.html"><span>contactanos</span></a></li>
+            <li class="m5 last"><a href="sitemap.html"><span>Indice</span></a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div class="container">
+      <aside>
+        <div class="inside">
+          <h2>Noticias</h2>
+          <ul class="news">
+            
+            <li><a href="#">Marzo 05, 2013</a><strong>Sentimiento, elegancia & maldad y Ares</strong>Pasaron casi cuatro años para que lanzara su nuevo álbum el
+             cual se compuso de dieciocho canciones que conformaron este nuevo trabajo discográfico entre las cuales se destacaron las colaboraciones con Daddy Yankee,
+             De la Ghetto, Ñengo Flow, entre otros.</li>
+            <li><a href="#">Julio 05, 2021</a><strong>ARCÁNGEL FUE HOMENAJEADO EN LOS PREMIOS HEAT 2021</strong>Arcángel fue reconocido en la ceremonia de los Premios HEAT 2021, con un premio
+                 especial a la trayectoria e innovación de la música.</li>
+            <li><a href="#">Marzo 09, 2018</a><strong>Al Este del Cante</strong>Arcángel recibió el Grammy Latino en la categoría Flamenco gracias a su albun "Al Este del Cnatante".</li>
+          </ul>
+        </div>
+      </aside>
+      <section id="content">
+        <h2>Arcangel</h2>
+        <div class="img-box"><img src="images/Arcangel.jpg">Desde pequeño, Austin estaba interesado en la música y creció escuchando distintos géneros. 
+            En 1999, se trasladó a Puerto Rico y formó parte del dúo Arcángel & De La Ghetto, que llegó a ser muy popular entre los fanáticos del reggaetón
+            en Estados Unidos y Puerto Rico a mediados de la década del 2000. El dúo firmó con el sello discográfico Baby Records del cantante y compositor 
+            Zion y también participó con Machete Music en el 2004 mientras grababan álbumes de compilación. En diciembre del 2006, Austin dejó la compañía 
+            discográfica y anunció que se embarcaría en una carrera en solitario y fundaría su propio sello.</div>
+        <p>Después de la separación del dúo a principios de 2007, Arcángel emprendió un proyecto en solitario y comenzó a trabajar con varios intérpretes y
+        productores de reggaetón en álbumes de compilación. Uno de los más notables fue un álbum recopilatorio producido en ese mismo año llamado “Flow La
+        Discoteka 2”, producido por el compositor y productor discográfico DJ Nelson, donde Arcángel hizo una canción llamada “Chica Virtual”, que es una de
+        sus canciones más conocidas.</p>
+        <p class="p0">En 2019, Arcángel estuvo trabajando en sencillos individuales y colaboraciones, pero en diciembre de ese año lanzó su álbum de estudio, 
+            “Historias de un Capricornio”. El álbum incluyó colaboraciones con artistas como Ozuna, Myke Towers, Bad Bunny, J Balvin y Sech, y recibió críticas
+             positivas de los expertos en música. Además, Arcángel se embarcó en una gira internacional para promocionar el álbum. </p>
+        <p>En el 2020, la relación de Arcángel y Alejandra Pascual llegó a su fin tras 14 años juntos. En el 2021, Arcángel formalizó su relación con Janexsy
+             Figueroa, aunque no suelen publicar contenido juntos en redes sociales para evitar críticas de los internautas.</p>
+      </section>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <footer>
+    <div class="container">
+      <div class="cont-bot"></div>
+      <div class="footerlink">
+        <p class="lf">Copyright &copy; 2023 <a href="#">NJS MUSICAL STUDIOS</a> - All Rights Reserved</p>
+        <p class="rf">Hecho por <a href="https://github.com/usernicolasmaya/usernicolasmaya.git">Nicolas Maya</a></p>
+        <div style="clear:both;"></div>
+      </div>
+    </div>
+  </footer>
+  <script type="text/javascript"> Cufon.now(); </script>
+  <!-- END PAGE SOURCE -->
+</body>
+
+</html>
