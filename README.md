@@ -7,7 +7,7 @@ Esta pagina web tiene como proposito ofrecer nuestra productora musical la cual 
 
 ## Empezando
 
-Para inciar a utilizar los programas hechos por nosotros se debe descargar el archivo index.html o entrar al link "http://127.0.0.1:3000/Pagina_web/index.html" y asi tener acceso a la informacion de nuestra pagina web.
+Para tener acceso se debe entrar al link "https://njs-seven.vercel.app/index.html" y asi tener acceso a la informacion de nuestra pagina web.
 
 ### Requisitos previos
 
